@@ -1,9 +1,14 @@
 /*  your css code here. If applicable */
+.container {
+	background-color: rgba(211, 211, 211);
+	padding: 10px
+}
 .nav-bar {
 	background-color: #D3D3D3;
 	padding: 10px;
 }
 .nav-list {
+	display: flex;
 	list-style: none;
 	margin: 0;
 	padding: 0;
